@@ -2,6 +2,7 @@ package org.quick4.framework.proxy;
 
 /**
  * 代理接口
+ *
  */
 public interface Proxy {
 

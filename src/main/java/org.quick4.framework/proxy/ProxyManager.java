@@ -5,7 +5,8 @@ package org.quick4.framework.proxy;
  */
 public class ProxyManager {
 
-    /*public static <T> T createProxy(final Class<?> targetClass,
+    /*
+    public static <T> T createProxy(final Class<?> targetClass,
                                     final List<Proxy> proxyList){
         return (T) Enhancer.create(targetClass, new MethodInterceptor() {
 
