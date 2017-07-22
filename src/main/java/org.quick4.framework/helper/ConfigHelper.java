@@ -1,7 +1,7 @@
 package org.quick4.framework.helper;
 
 import org.quick4.framework.ConfigConstant;
-import org.smart4j.framework.utils.PropsUtil;
+import org.quick4.framework.utils.PropsUtil;
 
 import java.util.Properties;
 

@@ -3,8 +3,8 @@ package org.quick4.framework.helper;
 import org.apache.commons.collections4.CollectionUtils;
 import org.apache.commons.lang3.ArrayUtils;
 import org.quick4.framework.annotation.Inject;
-import org.smart4j.framework.utils.CollectionUtil;
-import org.smart4j.framework.utils.ReflectionUtil;
+import org.quick4.framework.utils.CollectionUtil;
+import org.quick4.framework.utils.ReflectionUtil;
 
 import java.lang.reflect.Field;
 import java.util.Collections;

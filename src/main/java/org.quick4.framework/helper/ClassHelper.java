@@ -2,7 +2,7 @@ package org.quick4.framework.helper;
 
 import org.quick4.framework.annotation.Controller;
 import org.quick4.framework.annotation.Service;
-import org.smart4j.framework.utils.ClassUtil;
+import org.quick4.framework.utils.ClassUtil;
 
 import java.util.HashSet;
 import java.util.Set;

@@ -1,13 +1,13 @@
 package org.quick4.framework;
 
-import org.smart4j.framework.bean.Data;
-import org.smart4j.framework.bean.Handler;
-import org.smart4j.framework.bean.Param;
-import org.smart4j.framework.bean.View;
-import org.smart4j.framework.helper.BeanHelper;
-import org.smart4j.framework.helper.ConfigHelper;
-import org.smart4j.framework.helper.ControllerHelper;
-import org.smart4j.framework.utils.*;
+import org.quick4.framework.bean.Data;
+import org.quick4.framework.bean.Handler;
+import org.quick4.framework.bean.Param;
+import org.quick4.framework.bean.View;
+import org.quick4.framework.helper.BeanHelper;
+import org.quick4.framework.helper.ConfigHelper;
+import org.quick4.framework.helper.ControllerHelper;
+import org.quick4.framework.utils.*;
 
 import javax.servlet.ServletConfig;
 import javax.servlet.ServletContext;

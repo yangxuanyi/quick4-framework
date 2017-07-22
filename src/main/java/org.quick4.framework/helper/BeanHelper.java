@@ -1,6 +1,6 @@
 package org.quick4.framework.helper;
 
-import org.smart4j.framework.utils.ReflectionUtil;
+import org.quick4.framework.utils.ReflectionUtil;
 
 import java.util.HashMap;
 import java.util.Map;

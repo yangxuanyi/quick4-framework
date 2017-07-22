@@ -1,10 +1,10 @@
 package org.quick4.framework;
 
-import org.smart4j.framework.helper.BeanHelper;
-import org.smart4j.framework.helper.ClassHelper;
-import org.smart4j.framework.helper.ControllerHelper;
-import org.smart4j.framework.helper.IocHelper;
-import org.smart4j.framework.utils.ClassUtil;
+import org.quick4.framework.helper.BeanHelper;
+import org.quick4.framework.helper.ClassHelper;
+import org.quick4.framework.helper.ControllerHelper;
+import org.quick4.framework.helper.IocHelper;
+import org.quick4.framework.utils.ClassUtil;
 
 /**
  * 加载对应的Helper类

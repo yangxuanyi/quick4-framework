@@ -6,7 +6,7 @@ package org.quick4.framework;
  */
 public interface ConfigConstant {
     //配置文件名称
-    String CONFIG_FILE="smart.properties";
+    String CONFIG_FILE="quick4.properties";
 
     String JDBC_DRIVER="quick.framework.jdbc.driver";
     String JDBC_URL="quick.framework.jdbc.url";

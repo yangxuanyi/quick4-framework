@@ -1,11 +1,10 @@
 package org.quick4.framework.helper;
 
 import org.quick4.framework.annotation.Action;
-import org.smart4j.framework.bean.Handler;
-import org.smart4j.framework.bean.Request;
-import org.smart4j.framework.utils.ArrayUtil;
-import org.smart4j.framework.utils.ClassUtil;
-import org.smart4j.framework.utils.CollectionUtil;
+import org.quick4.framework.bean.Handler;
+import org.quick4.framework.bean.Request;
+import org.quick4.framework.utils.ArrayUtil;
+import org.quick4.framework.utils.CollectionUtil;
 
 import java.lang.reflect.Method;
 import java.util.HashMap;
